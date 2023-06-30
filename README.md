@@ -13,3 +13,6 @@ You will you this project through the web interface, where you can upload an ima
 - Scalability and robustness for handling diverse building images
 - Performance analysis with metrics such as accuracy.
 - Interpretability analysis to understand the model's decision-making process
+
+## Demo video link
+https://drive.google.com/file/d/1imvIBllTDFOWzqKvr51hoyruxsw2vPZ4/view?usp=sharing
