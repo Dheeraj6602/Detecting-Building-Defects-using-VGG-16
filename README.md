@@ -1,5 +1,3 @@
-# SmartIntern-Project-AI
-
 # Building Defect Detection
 
 ## Introduction
